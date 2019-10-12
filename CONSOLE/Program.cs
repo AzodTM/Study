@@ -25,7 +25,11 @@ namespace CONSOLE
             //num %= 10;
             otvet = Convert.ToString(num);
             //otvet = Convert.ToString(otvet[otvet.Length - 1]);
-            
+
+
+            MessageBox.Show("hello");
+            MessageBox.Show("hello2");
+
             MessageBox.Show(otvet);
 
     
